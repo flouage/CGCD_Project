@@ -32,7 +32,7 @@ the activity performed by the subject values:
     - std(): standard deviation of the signal mentioned
     - meanFreq(): the mean frequency
   - "-": seperator sign
-  - X|Y|Z: directional components according to standard xyz framework
+  - X|Y|Z: directional components according to standard xyz coordinate system
   
   ### mean of Variablename
   the mean of the corresponding variablename calcalated for the group subject, activity
