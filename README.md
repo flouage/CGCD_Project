@@ -1,6 +1,7 @@
 CGCD_Project
 ============
-run_analysis.R first sets working directory and loads ysed libraries.
+run_analysis.R first sets working directory and loads used libraries.
+Data comes from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and has a copyright notice.
 Data is loaded as needed according to the questions, starting with test and then training.
 We every time use dim, head and tail to validate proper import
 using grepl we extract mean and std data from the loaded data
